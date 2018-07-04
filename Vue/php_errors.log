@@ -1,0 +1,9 @@
+[03-Jan-2017 08:30:51 Europe/Paris] PHP Notice:  Undefined variable: _SESSION in /home/UNIV-LYON1/p1506593/public_html/CPOA/PHP/Vue/accueil.php on line 23
+[03-Jan-2017 08:36:11 Europe/Paris] PHP Notice:  Undefined variable: _SESSION in /home/UNIV-LYON1/p1506593/public_html/CPOA/PHP/Vue/accueil.php on line 23
+[03-Jan-2017 09:06:47 Europe/Paris] PHP Notice:  Undefined variable: _SESSION in /home/UNIV-LYON1/p1506593/public_html/CPOA/PHP/Vue/accueil.php on line 23
+[03-Jan-2017 09:08:29 Europe/Paris] PHP Notice:  Undefined variable: _SESSION in /home/UNIV-LYON1/p1506593/public_html/CPOA/PHP/Vue/accueil.php on line 23
+[03-Jan-2017 09:08:33 Europe/Paris] PHP Notice:  Undefined variable: _SESSION in /home/UNIV-LYON1/p1506593/public_html/CPOA/PHP/Vue/accueil.php on line 23
+[03-Jan-2017 09:31:08 Europe/Paris] PHP Notice:  Undefined variable: resultat in /home/UNIV-LYON1/p1506593/public_html/CPOA/PHP/Vue/modificationVIP.php on line 22
+[03-Jan-2017 09:31:31 Europe/Paris] PHP Fatal error:  Call to undefined function getVIPs() in /home/UNIV-LYON1/p1506593/public_html/CPOA/PHP/Vue/modificationVIP.php on line 22
+[03-Jan-2017 09:32:48 Europe/Paris] PHP Notice:  Undefined variable: vips in /home/UNIV-LYON1/p1506593/public_html/CPOA/PHP/Vue/modificationVIP.php on line 22
+[03-Jan-2017 09:33:52 Europe/Paris] PHP Notice:  Undefined variable: vips in /home/UNIV-LYON1/p1506593/public_html/CPOA/PHP/Vue/modificationVIP.php on line 22

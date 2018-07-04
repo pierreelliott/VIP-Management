@@ -1,0 +1,94 @@
+
+#couleurform{
+  width: auto;
+  padding: 10px;
+  margin-top: 20px;
+  background: #dddddd;
+  border-radius: 10px;
+
+  }
+
+h1{
+	text-align:center;
+}
+
+textarea
+{
+	resize: vertical;
+}
+
+#contenant{
+	margin:auto;
+	margin-top:10vh;
+	padding:auto;
+    
+	
+  width: 600px;	
+	background-attachment: fixed;
+	
+}
+
+.inline{
+	display: inline-block;
+}
+/*Bouton*/
+.bouton {
+    background-color: #433c30;
+    padding: 5px;
+    border-radius: 2px;
+    color: white;
+}
+
+.bouton a:hover {
+    background-color: #f16529;
+    border-radius: 2px;
+    color: #efd9bb;
+}
+
+.bordered-left
+{
+	border-left: 1px solid;
+}
+
+.bordered-top
+{
+	border-top: 3px solid;
+	padding-top: 50px;
+}
+
+.pointille
+{
+	border: 1px dashed;
+	border-radius: 15px;
+}
+
+.marge-bas
+{
+	margin-bottom: 25%;
+}
+
+.marge-haut
+{
+	margin-top: 50px;
+}
+
+.contour
+{
+	padding: 5px;
+	border: 3px solid black;
+	border-radius: 15px;
+}
+
+a.marge-bouton
+{
+	margin-top: 25px;
+	margin-bottom: 25px;
+}
+
+.block-vip
+{
+	margin: 20px;
+	border: 1px solid black;
+	border-radius: 5px;
+	background-color: rgb(200, 200, 200);
+}

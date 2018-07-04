@@ -1,0 +1,42 @@
+[12-Jan-2017 11:22:18 Europe/Paris] PHP Warning:  require(Modele/modeleVIP.php): failed to open stream: No such file or directory in /home/UNIV-LYON1/p1503940/public_html/CPOA/PHP/Modele/getVIP.php on line 2
+[12-Jan-2017 11:22:18 Europe/Paris] PHP Fatal error:  require(): Failed opening required 'Modele/modeleVIP.php' (include_path='.:/usr/share/php:/usr/share/pear') in /home/UNIV-LYON1/p1503940/public_html/CPOA/PHP/Modele/getVIP.php on line 2
+[12-Jan-2017 11:23:05 Europe/Paris] PHP Notice:  Undefined index: numVIP in /home/UNIV-LYON1/p1503940/public_html/CPOA/PHP/Modele/getVIP.php on line 4
+[12-Jan-2017 11:23:05 Europe/Paris] PHP Fatal error:  Call to a member function fetchAll() on a non-object in /home/UNIV-LYON1/p1503940/public_html/CPOA/PHP/Modele/modeleVIP.php on line 73
+[12-Jan-2017 11:24:44 Europe/Paris] PHP Notice:  Undefined index: numVIP in /home/UNIV-LYON1/p1503940/public_html/CPOA/PHP/Modele/getVIP.php on line 4
+[12-Jan-2017 11:24:44 Europe/Paris] PHP Fatal error:  Call to a member function fetchAll() on a non-object in /home/UNIV-LYON1/p1503940/public_html/CPOA/PHP/Modele/modeleVIP.php on line 74
+[12-Jan-2017 11:25:17 Europe/Paris] PHP Notice:  Undefined index: numVIP in /home/UNIV-LYON1/p1503940/public_html/CPOA/PHP/Modele/getVIP.php on line 4
+[12-Jan-2017 11:25:17 Europe/Paris] PHP Fatal error:  Call to a member function fetchAll() on a non-object in /home/UNIV-LYON1/p1503940/public_html/CPOA/PHP/Modele/modeleVIP.php on line 74
+[12-Jan-2017 11:26:12 Europe/Paris] PHP Notice:  Array to string conversion in /home/UNIV-LYON1/p1503940/public_html/CPOA/PHP/Modele/getVIP.php on line 4
+[12-Jan-2017 11:26:41 Europe/Paris] PHP Notice:  Array to string conversion in /home/UNIV-LYON1/p1503940/public_html/CPOA/PHP/Modele/getVIP.php on line 4
+[12-Jan-2017 11:38:08 Europe/Paris] PHP Notice:  Undefined index: numVIP in /home/UNIV-LYON1/p1503940/public_html/CPOA/PHP/Modele/getVIP.php on line 4
+[12-Jan-2017 11:38:08 Europe/Paris] PHP Fatal error:  Call to a member function fetchAll() on a non-object in /home/UNIV-LYON1/p1503940/public_html/CPOA/PHP/Modele/modeleVIP.php on line 73
+[12-Jan-2017 11:38:49 Europe/Paris] PHP Notice:  Undefined index: numVIP in /home/UNIV-LYON1/p1503940/public_html/CPOA/PHP/Modele/getVIP.php on line 4
+[12-Jan-2017 11:38:49 Europe/Paris] PHP Fatal error:  Call to a member function fetchAll() on a non-object in /home/UNIV-LYON1/p1503940/public_html/CPOA/PHP/Modele/modeleVIP.php on line 73
+[12-Jan-2017 11:40:00 Europe/Paris] PHP Notice:  Undefined index: numVIP in /home/UNIV-LYON1/p1503940/public_html/CPOA/PHP/Modele/getVIP.php on line 4
+[12-Jan-2017 11:40:00 Europe/Paris] PHP Fatal error:  Call to a member function fetchAll() on a non-object in /home/UNIV-LYON1/p1503940/public_html/CPOA/PHP/Modele/modeleVIP.php on line 73
+[12-Jan-2017 11:41:05 Europe/Paris] PHP Notice:  Undefined index: numVIP in /home/UNIV-LYON1/p1503940/public_html/CPOA/PHP/Modele/getVIP.php on line 4
+[12-Jan-2017 11:41:05 Europe/Paris] PHP Fatal error:  Call to a member function fetchAll() on a non-object in /home/UNIV-LYON1/p1503940/public_html/CPOA/PHP/Modele/modeleVIP.php on line 73
+[12-Jan-2017 11:43:08 Europe/Paris] PHP Notice:  Undefined index: numVIP in /home/UNIV-LYON1/p1503940/public_html/CPOA/PHP/Modele/getVIP.php on line 4
+[12-Jan-2017 11:43:08 Europe/Paris] PHP Fatal error:  Call to a member function fetchAll() on a non-object in /home/UNIV-LYON1/p1503940/public_html/CPOA/PHP/Modele/modeleVIP.php on line 73
+[12-Jan-2017 11:51:02 Europe/Paris] PHP Notice:  Undefined index: numVIP in /home/UNIV-LYON1/p1503940/public_html/CPOA/PHP/Modele/getVIP.php on line 4
+[12-Jan-2017 11:51:02 Europe/Paris] PHP Fatal error:  Call to a member function fetchAll() on a non-object in /home/UNIV-LYON1/p1503940/public_html/CPOA/PHP/Modele/modeleVIP.php on line 73
+[12-Jan-2017 11:51:02 Europe/Paris] PHP Notice:  Undefined index: numVIP in /home/UNIV-LYON1/p1503940/public_html/CPOA/PHP/Modele/getVIP.php on line 4
+[12-Jan-2017 11:51:02 Europe/Paris] PHP Fatal error:  Call to a member function fetchAll() on a non-object in /home/UNIV-LYON1/p1503940/public_html/CPOA/PHP/Modele/modeleVIP.php on line 73
+[16-Jan-2017 16:04:02 Europe/Paris] PHP Notice:  Undefined index: numVIP in /home/UNIV-LYON1/p1503940/public_html/CPOA/PHP/Modele/getVIP.php on line 4
+[16-Jan-2017 16:04:02 Europe/Paris] PHP Fatal error:  Call to a member function fetchAll() on a non-object in /home/UNIV-LYON1/p1503940/public_html/CPOA/PHP/Modele/modeleVIP.php on line 73
+[16-Jan-2017 16:04:03 Europe/Paris] PHP Notice:  Undefined index: numVIP in /home/UNIV-LYON1/p1503940/public_html/CPOA/PHP/Modele/getVIP.php on line 4
+[16-Jan-2017 16:04:03 Europe/Paris] PHP Fatal error:  Call to a member function fetchAll() on a non-object in /home/UNIV-LYON1/p1503940/public_html/CPOA/PHP/Modele/modeleVIP.php on line 73
+[16-Jan-2017 16:04:03 Europe/Paris] PHP Notice:  Undefined index: numVIP in /home/UNIV-LYON1/p1503940/public_html/CPOA/PHP/Modele/getVIP.php on line 4
+[16-Jan-2017 16:04:03 Europe/Paris] PHP Fatal error:  Call to a member function fetchAll() on a non-object in /home/UNIV-LYON1/p1503940/public_html/CPOA/PHP/Modele/modeleVIP.php on line 73
+[16-Jan-2017 16:04:04 Europe/Paris] PHP Notice:  Undefined index: numVIP in /home/UNIV-LYON1/p1503940/public_html/CPOA/PHP/Modele/getVIP.php on line 4
+[16-Jan-2017 16:04:04 Europe/Paris] PHP Fatal error:  Call to a member function fetchAll() on a non-object in /home/UNIV-LYON1/p1503940/public_html/CPOA/PHP/Modele/modeleVIP.php on line 73
+[16-Jan-2017 16:04:09 Europe/Paris] PHP Notice:  Undefined index: numVIP in /home/UNIV-LYON1/p1503940/public_html/CPOA/PHP/Modele/getVIP.php on line 4
+[16-Jan-2017 16:04:09 Europe/Paris] PHP Fatal error:  Call to a member function fetchAll() on a non-object in /home/UNIV-LYON1/p1503940/public_html/CPOA/PHP/Modele/modeleVIP.php on line 73
+[16-Jan-2017 16:56:33 Europe/Paris] PHP Notice:  Undefined index: numVIP in /home/UNIV-LYON1/p1503940/public_html/CPOA/PHP/Modele/getVIP.php on line 4
+[16-Jan-2017 16:56:33 Europe/Paris] PHP Fatal error:  Call to a member function fetchAll() on a non-object in /home/UNIV-LYON1/p1503940/public_html/CPOA/PHP/Modele/modeleVIP.php on line 73
+[16-Jan-2017 17:20:16 Europe/Paris] PHP Notice:  Undefined index: numVIP in /home/UNIV-LYON1/p1503940/public_html/CPOA/PHP/Modele/getVIP.php on line 4
+[16-Jan-2017 17:20:16 Europe/Paris] PHP Fatal error:  Call to a member function fetchAll() on a non-object in /home/UNIV-LYON1/p1503940/public_html/CPOA/PHP/Modele/modeleVIP.php on line 73
+[16-Jan-2017 17:38:46 Europe/Paris] PHP Notice:  Undefined index: numVIP in /home/UNIV-LYON1/p1503940/public_html/CPOA/PHP/Modele/getVIP.php on line 4
+[16-Jan-2017 17:38:46 Europe/Paris] PHP Fatal error:  Call to a member function fetchAll() on a non-object in /home/UNIV-LYON1/p1503940/public_html/CPOA/PHP/Modele/modeleVIP.php on line 73
+[16-Jan-2017 17:38:46 Europe/Paris] PHP Notice:  Undefined index: numVIP in /home/UNIV-LYON1/p1503940/public_html/CPOA/PHP/Modele/getVIP.php on line 4
+[16-Jan-2017 17:38:46 Europe/Paris] PHP Fatal error:  Call to a member function fetchAll() on a non-object in /home/UNIV-LYON1/p1503940/public_html/CPOA/PHP/Modele/modeleVIP.php on line 73
